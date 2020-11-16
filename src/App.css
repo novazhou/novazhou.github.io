@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.Container {
+  background-color: lightblue;
+}
+
+AccordionDetails {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+JobTag.FrontEnd {
+  background-color: blue;
+}
